@@ -1,1 +1,2 @@
 This is lame and I have made changes to this file for the first time.`
+I added some lines in lame.txt
